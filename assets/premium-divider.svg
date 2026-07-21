@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="24" viewBox="0 0 1400 24" role="img" aria-label="Premium color divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#2F81F7" stop-opacity="0"/>
+      <stop offset=".12" stop-color="#2F81F7"/>
+      <stop offset=".38" stop-color="#18C8D8"/>
+      <stop offset=".68" stop-color="#8B5CF6"/>
+      <stop offset=".9" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-400%" width="120%" height="900%"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <rect x="35" y="9" width="1330" height="6" rx="3" fill="url(#line)" opacity=".22" filter="url(#glow)"/>
+  <rect x="35" y="11" width="1330" height="2" rx="1" fill="url(#line)"/>
+  <circle cx="700" cy="12" r="5" fill="#8B5CF6"/>
+</svg>
