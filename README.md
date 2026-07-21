@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
+  <source media="(max-width: 768px)" srcset="./assets/hero-mobile.svg">
   <img src="./assets/hero-desktop.svg" width="100%" alt="Aman Ranjan — Founder and Director, AppSec Engineer, Cybersecurity Expert and AI Expert">
 </picture>
 
@@ -28,16 +28,18 @@
 <br/>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/impact-mobile.svg">
+  <source media="(max-width: 768px)" srcset="./assets/impact-mobile.svg">
   <img src="./assets/impact-desktop.svg" width="100%" alt="Impact: 10,000+ workshop learners, 43 findings, 50+ platform migrations and 100,000+ learning assets migrated">
 </picture>
+
+> **Migration operations:** **50+ authorized platform migrations** and **100,000+ learning assets** transferred with structured mapping and integrity controls.
 
 > **Operating at the intersection of secure software, applied AI, and practical technology education.** Every security engagement, enforcement workflow, and platform migration referenced below was authorized professional work.
 
 <br/>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/section-secure-mobile.svg">
+  <source media="(max-width: 768px)" srcset="./assets/section-secure-mobile.svg">
   <img src="./assets/section-secure.svg" width="100%" alt="01 Secure — Application Security, API Security and VAPT">
 </picture>
 
@@ -74,7 +76,7 @@ Designed and operated authorized copyright-enforcement workflows across Telegram
 <br/>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/section-build-mobile.svg">
+  <source media="(max-width: 768px)" srcset="./assets/section-build-mobile.svg">
   <img src="./assets/section-build.svg" width="100%" alt="02 Build — Applied AI, developer tools and experimental systems">
 </picture>
 
@@ -109,7 +111,7 @@ Designed and operated authorized copyright-enforcement workflows across Telegram
 <br/>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/section-found-mobile.svg">
+  <source media="(max-width: 768px)" srcset="./assets/section-found-mobile.svg">
   <img src="./assets/section-found.svg" width="100%" alt="03 Found — LACSA TECH, AI and cybersecurity education">
 </picture>
 
@@ -143,7 +145,7 @@ The journey began with free technology classes under **LiveAllClass in 2023**, e
 <br/>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/section-scale-mobile.svg">
+  <source media="(max-width: 768px)" srcset="./assets/section-scale-mobile.svg">
   <img src="./assets/section-scale.svg" width="100%" alt="04 Scale — Platform migrations, structured delivery and protection">
 </picture>
 
@@ -151,19 +153,19 @@ The journey began with free technology classes under **LiveAllClass in 2023**, e
 
 - **50+ platform migrations** across learning ecosystems
 - **100,000+ learning assets** migrated with mapping, structure, and integrity controls
-- High-volume workflows spanning ClassPlus, AppX, YouTube, CareerWill, Graphy, Google Drive, and custom learning platforms
+- High-volume workflows spanning Classplus, AppX, YouTube, CareerWill, Graphy, Google Drive, and custom learning platforms
 
 <details>
 <summary><b>Open the delivery map</b></summary>
 
 <br/>
 
-- **ClassPlus:** 30+ authorized migrations with content extraction and structured uploads
+- **Classplus:** 30+ authorized migrations with content extraction and structured uploads
 - **AppX:** 20+ authorized platform migrations across multiple delivery formats
 - **YouTube:** 30,000+ videos migrated, structured, and mapped
 - **CareerWill:** 70,000+ videos migrated
 - **Graphy:** Structured migration from a custom protected environment
-- **Edugorilla · Shri Ram IAS:** End-to-end content restructuring and transfer
+- **EduGorilla · Shri Ram IAS:** End-to-end content restructuring and transfer
 - **Google Drive:** High-volume extraction pipelines with data-integrity controls
 
 </details>
@@ -171,7 +173,7 @@ The journey began with free technology classes under **LiveAllClass in 2023**, e
 <br/>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/section-evidence-mobile.svg">
+  <source media="(max-width: 768px)" srcset="./assets/section-evidence-mobile.svg">
   <img src="./assets/section-evidence.svg" width="100%" alt="05 Evidence — Founder profiles, public coverage and company records">
 </picture>
 
@@ -227,7 +229,7 @@ National Law Review hosts an EIN Presswire release, while Dailyhunt carries a Ty
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/footer-mobile.svg">
+  <source media="(max-width: 768px)" srcset="./assets/footer-mobile.svg">
   <img src="./assets/footer.svg" width="100%" alt="Education gives the base. Skills and mindset build the future.">
 </picture>
 
