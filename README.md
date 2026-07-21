@@ -30,6 +30,51 @@
 
 <br/>
 
+## Founder & Director · LACSA TECH
+
+<sub>INDIA'S FIRST AI STARTUP INSTITUTE · AI &amp; CYBERSECURITY EDUCATION</sub>
+
+LACSA TECH is positioned as **“India's First AI Startup Institute”**, focused on practical AI, cybersecurity, startup thinking, and founder-first learning.
+
+- **10,000+ learners trained through workshops.**
+- **AI Career Program:** AI fundamentals, prompt engineering, automation, project work, and startup thinking.
+- **Ethical Hacking Program:** penetration testing, network and web security, bug-bounty concepts, and hands-on tooling.
+- **Founder-first learning:** helping students move from consuming technology to building real solutions.
+
+[![Active Company](https://img.shields.io/badge/COMPANY-ACTIVE-238636?style=flat-square)](https://www.tofler.in/lacsa-tech-private-limited/company/U85499JH2025PTC024841)
+[![Incorporated](https://img.shields.io/badge/10_MAY_2025-2F81F7?style=flat-square)](https://www.tofler.in/lacsa-tech-private-limited/company/U85499JH2025PTC024841)
+[![CIN](https://img.shields.io/badge/CIN-U85499JH2025PTC024841-A78BFA?style=flat-square)](https://www.tofler.in/lacsa-tech-private-limited/company/U85499JH2025PTC024841)
+[![Jharkhand](https://img.shields.io/badge/JHARKHAND-INDIA-F59E0B?style=flat-square)](https://lacsa.tech/)
+
+[Explore LACSA TECH](https://lacsa.tech/) · [Watch on YouTube](https://www.youtube.com/@lacsatech)
+
+<img src="./assets/premium-divider.svg" width="100%" alt="">
+
+## Migration Operations
+
+<sub>INDEPENDENT DELIVERY &amp; PLATFORM OPERATIONS · SEPARATE FROM LACSA TECH</sub>
+
+- **50+ platform migrations** across learning ecosystems.
+- **100,000+ learning assets** migrated with mapping, structure, and integrity controls.
+- High-volume workflows spanning **ClassPlus, AppX, YouTube, CareerWill, Graphy, Google Drive**, and custom learning platforms.
+
+<details>
+<summary><b>Open the delivery map</b></summary>
+
+<br/>
+
+- **ClassPlus:** 30+ authorized migrations with content extraction and structured uploads.
+- **AppX:** 20+ authorized platform migrations across multiple delivery formats.
+- **YouTube:** 30,000+ videos migrated, structured, and mapped.
+- **CareerWill:** 70,000+ videos migrated.
+- **Graphy:** structured migration from a custom protected environment.
+- **Edugorilla · Shri Ram IAS:** end-to-end content restructuring and transfer.
+- **Google Drive:** high-volume extraction pipelines with data-integrity controls.
+
+</details>
+
+<img src="./assets/premium-divider.svg" width="100%" alt="">
+
 ## Security Engineering
 
 <sub>APPLICATION SECURITY · API SECURITY · VAPT · SECURE SDLC · BUSINESS-LOGIC TESTING</sub>
@@ -106,51 +151,6 @@ A local-first Chrome Manifest V3 debugging extension that turns browser activity
 - **AI Playground:** Prompt Lab, Code Assistant, Model Compare, and Image Studio in one practical learning environment.
 - **LLM applications:** prompt engineering, model evaluation, AI-assisted development, and automation concepts.
 - **[Cybercrime Reporting Portal](https://github.com/amanranjan26262626-creator/cybercrime-portal):** an architecture prototype exploring Next.js, TypeScript, Solidity, PostgreSQL, MongoDB, Gemini, IPFS, Firebase, and Hyperledger concepts.
-
-<img src="./assets/premium-divider.svg" width="100%" alt="">
-
-## Founder & Director · LACSA TECH
-
-<sub>INDIA'S FIRST AI STARTUP INSTITUTE · AI & CYBERSECURITY EDUCATION</sub>
-
-LACSA TECH is positioned as **“India's First AI Startup Institute”**, focused on practical AI, cybersecurity, startup thinking, and founder-first learning.
-
-- **10,000+ learners trained through workshops.**
-- **AI Career Program:** AI fundamentals, prompt engineering, automation, project work, and startup thinking.
-- **Ethical Hacking Program:** penetration testing, network and web security, bug-bounty concepts, and hands-on tooling.
-- **Founder-first learning:** helping students move from consuming technology to building real solutions.
-
-[![Active Company](https://img.shields.io/badge/COMPANY-ACTIVE-238636?style=flat-square)](https://www.tofler.in/lacsa-tech-private-limited/company/U85499JH2025PTC024841)
-[![Incorporated](https://img.shields.io/badge/10_MAY_2025-2F81F7?style=flat-square)](https://www.tofler.in/lacsa-tech-private-limited/company/U85499JH2025PTC024841)
-[![CIN](https://img.shields.io/badge/CIN-U85499JH2025PTC024841-A78BFA?style=flat-square)](https://www.tofler.in/lacsa-tech-private-limited/company/U85499JH2025PTC024841)
-[![Jharkhand](https://img.shields.io/badge/JHARKHAND-INDIA-F59E0B?style=flat-square)](https://lacsa.tech/)
-
-[Explore LACSA TECH](https://lacsa.tech/) · [Watch on YouTube](https://www.youtube.com/@lacsatech)
-
-<img src="./assets/premium-divider.svg" width="100%" alt="">
-
-## Migration Operations
-
-<sub>INDEPENDENT DELIVERY & PLATFORM OPERATIONS · SEPARATE FROM LACSA TECH</sub>
-
-- **50+ platform migrations** across learning ecosystems.
-- **100,000+ learning assets** migrated with mapping, structure, and integrity controls.
-- High-volume workflows spanning **ClassPlus, AppX, YouTube, CareerWill, Graphy, Google Drive**, and custom learning platforms.
-
-<details>
-<summary><b>Open the delivery map</b></summary>
-
-<br/>
-
-- **ClassPlus:** 30+ authorized migrations with content extraction and structured uploads.
-- **AppX:** 20+ authorized platform migrations across multiple delivery formats.
-- **YouTube:** 30,000+ videos migrated, structured, and mapped.
-- **CareerWill:** 70,000+ videos migrated.
-- **Graphy:** structured migration from a custom protected environment.
-- **Edugorilla · Shri Ram IAS:** end-to-end content restructuring and transfer.
-- **Google Drive:** high-volume extraction pipelines with data-integrity controls.
-
-</details>
 
 <img src="./assets/premium-divider.svg" width="100%" alt="">
 
