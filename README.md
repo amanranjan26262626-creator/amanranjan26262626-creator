@@ -7,11 +7,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanranjan2626)
-[![LACSA TECH](https://img.shields.io/badge/LACSA_TECH-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=111827)](https://lacsa.tech/)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lacsatech)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amanranjan26262626)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanranjan26262626@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanranjan2626)
+[![LACSA TECH](https://img.shields.io/badge/LACSA_TECH-F59E0B?style=flat-square&logo=googlechrome&logoColor=111827)](https://lacsa.tech/)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@lacsatech)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amanranjan26262626)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amanranjan26262626@gmail.com)
 
 <br/>
 
@@ -23,13 +23,12 @@
 
 > I build secure systems, practical AI products, and technology education that turns learners into builders. All security engagements and platform operations referenced here were authorized professional work.
 
-<div align="center">
+<picture>
+  <source media="(max-width: 768px)" srcset="./assets/impact-premium-mobile.svg">
+  <img src="./assets/impact-premium-desktop.svg" width="100%" alt="Impact highlights: 10,000+ workshop learners, 43 security findings, 50+ platform migrations, and 100,000+ learning assets migrated">
+</picture>
 
-<kbd>10,000+ WORKSHOP LEARNERS</kbd> &nbsp; <kbd>43 FINDINGS IN ONE ASSESSMENT</kbd> &nbsp; <kbd>50+ PLATFORM MIGRATIONS</kbd> &nbsp; <kbd>100K+ ASSETS MIGRATED</kbd>
-
-</div>
-
----
+<br/>
 
 ## 01 / Security Engineering
 
@@ -62,7 +61,7 @@
 
 </details>
 
----
+<img src="./assets/premium-divider.svg" width="100%" alt="">
 
 ## 02 / AI & Product Engineering
 
@@ -94,7 +93,7 @@ A local-first Chrome Manifest V3 debugging extension that turns browser activity
 - **LLM applications:** prompt engineering, model evaluation, AI-assisted development, and automation concepts.
 - **[Cybercrime Reporting Portal](https://github.com/amanranjan26262626-creator/cybercrime-portal):** an architecture prototype exploring Next.js, TypeScript, Solidity, PostgreSQL, MongoDB, Gemini, IPFS, Firebase, and Hyperledger concepts.
 
----
+<img src="./assets/premium-divider.svg" width="100%" alt="">
 
 ## 03 / Founder & Director — LACSA TECH
 
@@ -114,7 +113,7 @@ LACSA TECH is positioned as **“India's First AI Startup Institute”**, focuse
 
 [Explore LACSA TECH](https://lacsa.tech/) · [Watch on YouTube](https://www.youtube.com/@lacsatech)
 
----
+<img src="./assets/premium-divider.svg" width="100%" alt="">
 
 ## 04 / Migration Operations
 
@@ -139,7 +138,7 @@ LACSA TECH is positioned as **“India's First AI Startup Institute”**, focuse
 
 </details>
 
----
+<img src="./assets/premium-divider.svg" width="100%" alt="">
 
 ## 05 / Public Footprint
 
@@ -160,7 +159,7 @@ Knowlepedia is an open biography page. The National Law Review link hosts a synd
 
 </details>
 
----
+<img src="./assets/premium-divider.svg" width="100%" alt="">
 
 ## Technical Stack
 
@@ -173,7 +172,7 @@ Knowlepedia is an open biography page. The National Law Review link hosts a synd
 **Engineering**  
 `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `MongoDB` · `Solidity` · `Chrome Extensions` · `IPFS`
 
----
+<img src="./assets/premium-divider.svg" width="100%" alt="">
 
 <div align="center">
 
