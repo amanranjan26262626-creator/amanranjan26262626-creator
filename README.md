@@ -103,9 +103,9 @@ LACSA TECH is positioned as **“India's First AI Startup Institute”**, focuse
 
 I manage authorized copyright-protection and content-abuse workflows across major distribution platforms—from infringement discovery and evidence collection to escalation, tracking, and closure validation.
 
-[![YouTube](https://img.shields.io/badge/YOUTUBE_CASES-50%2B-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@lacsatech)
-[![Telegram](https://img.shields.io/badge/TELEGRAM_CHANNELS_%26_GROUPS-500%2B-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://telegram.org/)
-[![Coverage](https://img.shields.io/badge/COVERAGE-WEB_%26_MULTI--PLATFORM-D7B56D?style=flat-square)](https://lacsa.tech/)
+![YouTube](https://img.shields.io/badge/YOUTUBE_CASES-50%2B-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![Telegram](https://img.shields.io/badge/TELEGRAM_CHANNELS_%26_GROUPS-500%2B-229ED9?style=flat-square&logo=telegram&logoColor=white)
+![Coverage](https://img.shields.io/badge/COVERAGE-WEB_%26_MULTI--PLATFORM-D7B56D?style=flat-square)
 
 - **YouTube:** **50+ copyright cases** handled through documented review, evidence, reporting, and follow-up workflows.
 - **Telegram:** **500+ channels and groups** handled through documented copyright-enforcement workflows.
