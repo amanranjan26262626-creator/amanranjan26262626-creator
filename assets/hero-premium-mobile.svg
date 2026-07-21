@@ -23,9 +23,19 @@
   <g transform="translate(145 320)">
     <rect width="430" height="260" rx="18" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity=".12"/>
     <path d="M20 67V20H67M363 20H410V67M20 193V240H67M363 240H410V193" fill="none" stroke="#D7B56D" stroke-opacity=".72" stroke-width="2"/>
-    <text x="215" y="147" text-anchor="middle" fill="#F4EFE5" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="600" letter-spacing="-10">AR</text>
-    <rect x="126" y="169" width="178" height="2" rx="1" fill="url(#edge)"/>
-    <text x="215" y="203" text-anchor="middle" fill="#AEB7C5" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="650" letter-spacing="2.2">SECURE · BUILD · LEAD</text>
+    <text x="38" y="51" fill="#7E8CA2" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="650" letter-spacing="2.6">AREAS OF PRACTICE</text>
+    <text x="38" y="101" fill="#F4EFE5" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="500">Building systems that earn trust.</text>
+    <rect x="38" y="124" width="354" height="2" rx="1" fill="url(#edge)"/>
+    <g font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="650" letter-spacing="1.2">
+      <rect x="38" y="151" width="3" height="18" rx="1.5" fill="#83B7FF"/>
+      <text x="53" y="165" fill="#DCE5F2">APPLICATION SECURITY</text>
+      <rect x="245" y="151" width="3" height="18" rx="1.5" fill="#C8B8FF"/>
+      <text x="260" y="165" fill="#DCE5F2">AI ENGINEERING</text>
+      <rect x="38" y="195" width="3" height="18" rx="1.5" fill="#D7B56D"/>
+      <text x="53" y="209" fill="#DCE5F2">CONTENT PROTECTION</text>
+      <rect x="245" y="195" width="3" height="18" rx="1.5" fill="#9EABC0"/>
+      <text x="260" y="209" fill="#DCE5F2">TECH EDUCATION</text>
+    </g>
   </g>
 
   <g transform="translate(65 615)" font-family="'Segoe UI', Arial, sans-serif">
