@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="170" viewBox="0 0 1400 170" role="img" aria-labelledby="title desc">
+  <title id="title">Aman Ranjan impact highlights</title>
+  <desc id="desc">10,000 plus workshop learners, 43 findings in one assessment, 50 plus platform migrations, and 100,000 plus learning assets migrated.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#070A16"/><stop offset=".45" stop-color="#0B1330"/><stop offset="1" stop-color="#111026"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#2F81F7"/><stop offset=".34" stop-color="#18C8D8"/><stop offset=".68" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <radialGradient id="glowB"><stop stop-color="#2F81F7" stop-opacity=".22"/><stop offset="1" stop-color="#2F81F7" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowV"><stop stop-color="#8B5CF6" stop-opacity=".18"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1400" height="170" rx="26" fill="url(#bg)"/>
+  <circle cx="160" cy="10" r="220" fill="url(#glowB)"/>
+  <circle cx="1120" cy="150" r="260" fill="url(#glowV)"/>
+  <rect x="1.5" y="1.5" width="1397" height="167" rx="24.5" fill="none" stroke="url(#edge)" stroke-opacity=".65" stroke-width="3"/>
+  <rect x="42" y="30" width="1316" height="2" rx="1" fill="url(#edge)" opacity=".9"/>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <g transform="translate(68 54)">
+      <text fill="#63A9FF" font-family="Consolas, monospace" font-size="13" letter-spacing="2">WORKSHOP LEARNERS</text>
+      <text y="54" fill="#F8FAFC" font-size="38" font-weight="750">10,000+</text>
+      <text y="82" fill="#94A3B8" font-size="16">trained through workshops</text>
+    </g>
+    <path d="M350 55V139" stroke="#2F81F7" stroke-opacity=".22"/>
+    <g transform="translate(400 54)">
+      <text fill="#39D7E5" font-family="Consolas, monospace" font-size="13" letter-spacing="2">SECURITY DEPTH</text>
+      <text y="54" fill="#F8FAFC" font-size="38" font-weight="750">43</text>
+      <text y="82" fill="#94A3B8" font-size="16">findings · one assessment</text>
+    </g>
+    <path d="M690 55V139" stroke="#18C8D8" stroke-opacity=".22"/>
+    <g transform="translate(742 54)">
+      <text fill="#B79BFF" font-family="Consolas, monospace" font-size="13" letter-spacing="2">PLATFORM OPERATIONS</text>
+      <text y="54" fill="#F8FAFC" font-size="38" font-weight="750">50+</text>
+      <text y="82" fill="#94A3B8" font-size="16">authorized migrations</text>
+    </g>
+    <path d="M1030 55V139" stroke="#8B5CF6" stroke-opacity=".22"/>
+    <g transform="translate(1082 54)">
+      <text fill="#FBBF55" font-family="Consolas, monospace" font-size="13" letter-spacing="2">DELIVERY SCALE</text>
+      <text y="54" fill="#F8FAFC" font-size="38" font-weight="750">100K+</text>
+      <text y="82" fill="#94A3B8" font-size="16">learning assets migrated</text>
+    </g>
+  </g>
+</svg>
