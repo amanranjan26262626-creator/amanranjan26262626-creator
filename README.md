@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 768px)" srcset="./assets/hero-mobile.svg?v=2">
-  <img src="./assets/hero-desktop.svg?v=2" width="100%" alt="Aman Ranjan — Founder and Director, AppSec Engineer, Cybersecurity Expert and AI Expert">
+  <source media="(max-width: 768px)" srcset="./assets/hero-premium-mobile.svg">
+  <img src="./assets/hero-premium-desktop.svg" width="100%" alt="Aman Ranjan — Founder and Director, Application Security Engineer, Cybersecurity Expert and AI Expert">
 </picture>
 
 <br/>
@@ -15,13 +15,13 @@
 
 <br/>
 
-<sub>SECURE SOFTWARE · APPLIED AI · FOUNDER-FIRST EDUCATION · PLATFORM OPERATIONS</sub>
+<sub>SECURE SOFTWARE · APPLIED AI · CONTENT PROTECTION · EDUCATION · PLATFORM OPERATIONS</sub>
 
 </div>
 
 <br/>
 
-> I build secure systems, practical AI products, and technology education that turns learners into builders. All security engagements and platform operations referenced here were authorized professional work.
+> I build secure systems, practical AI products, and technology education that turns learners into builders. All security, copyright-protection, and platform operations referenced here were authorized professional work.
 
 <picture>
   <source media="(max-width: 768px)" srcset="./assets/impact-premium-mobile.svg">
@@ -50,14 +50,28 @@
 
 </details>
 
+<img src="./assets/premium-divider.svg" width="100%" alt="">
+
+## Copyright & Content Protection
+
+<sub>YOUTUBE · TELEGRAM · WEBSITES · MULTI-PLATFORM COPYRIGHT OPERATIONS</sub>
+
+I manage authorized copyright-protection and content-abuse workflows across major distribution platforms—from infringement discovery and evidence collection to escalation, tracking, and closure validation.
+
+[![YouTube](https://img.shields.io/badge/YOUTUBE_CASES-50%2B-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@lacsatech)
+[![Telegram](https://img.shields.io/badge/TELEGRAM_CHANNELS_%26_GROUPS-500%2B-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://telegram.org/)
+[![Coverage](https://img.shields.io/badge/COVERAGE-WEB_%26_MULTI--PLATFORM-D7B56D?style=flat-square)](https://lacsa.tech/)
+
+- **YouTube:** **50+ copyright cases** handled through documented review, evidence, reporting, and follow-up workflows.
+- **Telegram:** **500+ channels and groups** handled through documented copyright-enforcement workflows.
+- **Websites and other platforms:** infringement monitoring, source mapping, evidence preservation, complaint preparation, escalation, and status tracking.
+
 <details>
-<summary><b>Digital-content protection operations</b></summary>
+<summary><b>Copyright operations workflow</b></summary>
 
 <br/>
 
-- **250+ Telegram channels and groups** actioned through documented takedown workflows.
-- Evidence capture, ownership verification, escalation tracking, and closure validation.
-- Platform-abuse investigation designed around authorization, auditability, and responsible handling.
+`Discovery` · `Ownership verification` · `URL mapping` · `Evidence capture` · `Complaint preparation` · `Platform escalation` · `Follow-up tracking` · `Closure validation`
 
 </details>
 
