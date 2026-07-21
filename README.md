@@ -13,29 +13,6 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="52%" valign="top">
-
-### Cybersecurity, AppSec and AI expert.
-
-I work across cybersecurity, application security, and applied AI—combining offensive security thinking with practical AI engineering. I turn technical findings into clear remediation paths and ideas into usable systems.
-
-`Cybersecurity` · `Application Security` · `Applied AI` · `LLM Systems`
-
-</td>
-<td width="48%" valign="top">
-
-### Founder and educator by mission.
-
-Founder of **[LACSA TECH](https://www.lacsa.tech)**, building practical AI and cybersecurity education from Tier-3 Jharkhand. Teaching free-first since 2023, with **1,000+ live students** reached.
-
-`AI Education` · `Product Building` · `Community` · `Mentorship`
-
-</td>
-</tr>
-</table>
-
 ### Impact, not noise.
 
 | **43** | **50+** | **100,000+** | **1,000+** |
