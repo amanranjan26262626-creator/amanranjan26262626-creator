@@ -42,6 +42,12 @@ Founder of **[LACSA TECH](https://www.lacsa.tech)**, building practical AI and c
 | :---: | :---: | :---: | :---: |
 | Findings in one LMS assessment | Platforms migrated | Videos migrated | Live students taught |
 
+### Featured, profiled and covered.
+
+| Founder profiles | Editorial coverage |
+| --- | --- |
+| [**Crunchbase** — Founder profile](https://www.crunchbase.com/person/aman-ranjan-f137)<br/>[**Knowlepedia** — Biography](https://knowlepedia.org/wiki/Aman_Ranjan) | [**The National Law Review** — India's First AI Startup Institute](https://natlawreview.com/press-releases/jharkhand-entrepreneur-launches-indias-first-ai-startup-institute-age-20)<br/>[**World Economic Magazine India** — From Jharkhand to India's AI Frontier](https://wemindia.com/from-small-town-jharkhand-to-indias-ai-frontier-20-year-old-founder-builds-startup-focused-tech-institute/amp/)<br/>[**Dailyhunt / Tycoon World** — Inspiring India's Youth to Become Self-Reliant](https://m.dailyhunt.in/news/india/english/tycoon+world-epaper-dh4c6a646b987d48f5b87f17d40865f089/a+19yearold+from+jharkhand+is+inspiring+indias+youth+to+become+selfreliant-newsid-dh4c6a646b987d48f5b87f17d40865f089_91081650b41311f0b0bedfeccf9a1d95?sm=Y) |
+
 > All security assessments, enforcement work, and platform migrations referenced below were authorized professional engagements.
 
 ---
