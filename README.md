@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 768px)" srcset="./assets/hero-mobile.svg">
-  <img src="./assets/hero-desktop.svg" width="100%" alt="Aman Ranjan — Founder and Director, AppSec Engineer, Cybersecurity Expert and AI Expert">
+  <source media="(max-width: 768px)" srcset="./assets/hero-mobile.svg?v=2">
+  <img src="./assets/hero-desktop.svg?v=2" width="100%" alt="Aman Ranjan — Founder and Director, AppSec Engineer, Cybersecurity Expert and AI Expert">
 </picture>
 
 <br/>
