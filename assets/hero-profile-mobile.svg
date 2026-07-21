@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="650" viewBox="0 0 720 650" role="img" aria-labelledby="title desc">
+  <title id="title">Aman Ranjan — Executive Mobile Profile</title>
+  <desc id="desc">Mobile profile banner for Aman Ranjan, Founder and Director of LACSA TECH, Application Security Engineer, Cybersecurity Expert and AI Expert.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070C"/><stop offset=".52" stop-color="#0A1020"/><stop offset="1" stop-color="#12101A"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6EA8FE"/><stop offset=".5" stop-color="#9B8AFB"/><stop offset="1" stop-color="#D7B56D"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111A2C"/><stop offset="1" stop-color="#15131E"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#315FA8" stop-opacity=".22"/><stop offset="1" stop-color="#315FA8" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="720" height="650" rx="28" fill="url(#bg)"/>
+  <circle cx="160" cy="170" r="360" fill="url(#glow)"/>
+  <rect x="2" y="2" width="716" height="646" rx="26" fill="none" stroke="url(#edge)" stroke-opacity=".74" stroke-width="4"/>
+
+  <g text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif">
+    <text x="360" y="58" fill="#9EABC0" font-size="18" font-weight="650" letter-spacing="3">FOUNDER · SECURITY · AI</text>
+    <text x="360" y="138" fill="#F6F3EC" font-size="62" font-weight="760" letter-spacing="-2">AMAN RANJAN</text>
+    <rect x="105" y="163" width="510" height="3" rx="1.5" fill="url(#edge)"/>
+    <text x="360" y="211" fill="#83B7FF" font-size="25" font-weight="680">Founder &amp; Director — LACSA TECH</text>
+    <text x="360" y="250" fill="#C8B8FF" font-size="22" font-weight="620">Application Security Engineer · Cybersecurity Expert</text>
+    <text x="360" y="282" fill="#C8B8FF" font-size="23" font-weight="680">AI Expert</text>
+  </g>
+
+  <g transform="translate(65 330)" font-family="'Segoe UI', Arial, sans-serif">
+    <rect width="590" height="78" rx="11" fill="#FFFFFF" fill-opacity=".025" stroke="#D7B56D" stroke-opacity=".48"/>
+    <rect width="5" height="78" rx="2.5" fill="#D7B56D"/>
+    <text x="28" y="31" fill="#D7B56D" font-size="17" font-weight="700" letter-spacing="2.2">LACSA TECH</text>
+    <text x="28" y="60" fill="#F2EDE3" font-size="24" font-weight="620">India's First AI Startup Institute</text>
+  </g>
+
+  <g transform="translate(65 445)" font-family="'Segoe UI', Arial, sans-serif">
+    <path d="M295 0V128M0 64H590" stroke="#FFFFFF" stroke-opacity=".14"/>
+    <g>
+      <text fill="#F6F3EC" font-size="35" font-weight="740">10,000+</text>
+      <text y="29" fill="#8F9CAF" font-size="18" font-weight="650" letter-spacing="1.2">WORKSHOP LEARNERS</text>
+    </g>
+    <g transform="translate(330)">
+      <text fill="#F6F3EC" font-size="35" font-weight="740">43</text>
+      <text y="29" fill="#8F9CAF" font-size="18" font-weight="650" letter-spacing="1.2">SECURITY FINDINGS</text>
+    </g>
+    <g transform="translate(0 92)">
+      <text fill="#F6F3EC" font-size="35" font-weight="740">50+</text>
+      <text y="29" fill="#8F9CAF" font-size="18" font-weight="650" letter-spacing="1.2">PLATFORM MIGRATIONS</text>
+    </g>
+    <g transform="translate(330 92)">
+      <text fill="#F6F3EC" font-size="35" font-weight="740">100K+</text>
+      <text y="29" fill="#8F9CAF" font-size="18" font-weight="650" letter-spacing="1.2">LEARNING ASSETS</text>
+    </g>
+  </g>
+</svg>
