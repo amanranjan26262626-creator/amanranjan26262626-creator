@@ -1,141 +1,140 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Aman Ranjan — Application Security, AI and Education" />
+<img src="./assets/hero.svg" width="100%" alt="Aman Ranjan — Cybersecurity, AppSec and AI Expert" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-ranjan)
-[![Instagram](https://img.shields.io/badge/Instagram-amanranjan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amanranjan26262626)
-[![YouTube](https://img.shields.io/badge/YouTube-LiveAllClass-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@liveallclass)
-[![Website](https://img.shields.io/badge/LACSA_TECH-Visit_Site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lacsa.tech)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanranjan26262626@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-ranjan)
+[![LACSA TECH](https://img.shields.io/badge/LACSA_TECH-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lacsa.tech)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@liveallclass)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanranjan26262626@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 👤 Who I Am
+<table>
+<tr>
+<td width="52%" valign="top">
 
-> *I secure platforms by day, and build the school that teaches the next generation to do it.*
+### Cybersecurity, AppSec and AI expert.
 
-```python
-profile = {
-    "role"       : "Application Security Engineer @ AppSquadz | Founder, LACSA TECH",
-    "focus"      : "Web & platform AppSec | VAPT | API security | Business-logic testing",
-    "migrations" : "50+ platforms & 100,000+ videos migrated — ClassPlus, AppX, YouTube, CareerWill, Graphy",
-    "copyright"  : "Copyright strike/takedown system — Telegram (250+ channels), YouTube, websites",
-    "founder"    : "LACSA TECH — DPIIT/Startup India-recognized, 'India's First AI Startup Institute'",
-    "builder"    : ["Developer Vault", "AI Playground", "AutoWeb", "WhatsApp AI Voice Agent"],
-    "educator"   : "Teaching cybersecurity free-first since 2023 — 1,000+ live students",
-    "principle"  : "A finding only matters if someone can learn from it — so I write the report AND the course.",
-}
-```
+I work across cybersecurity, application security, and applied AI—combining offensive security thinking with practical AI engineering. I turn technical findings into clear remediation paths and ideas into usable systems.
 
-### Impact at a glance
+`Cybersecurity` · `Application Security` · `Applied AI` · `LLM Systems`
+
+</td>
+<td width="48%" valign="top">
+
+### Founder and educator by mission.
+
+Founder of **[LACSA TECH](https://www.lacsa.tech)**, building practical AI and cybersecurity education from Tier-3 Jharkhand. Teaching free-first since 2023, with **1,000+ live students** reached.
+
+`AI Education` · `Product Building` · `Community` · `Mentorship`
+
+</td>
+</tr>
+</table>
+
+### Impact, not noise.
 
 | **43** | **50+** | **100,000+** | **1,000+** |
 | :---: | :---: | :---: | :---: |
-| VAPT findings in one LMS engagement | Platforms migrated | Videos migrated | Live students taught |
+| Findings in one LMS assessment | Platforms migrated | Videos migrated | Live students taught |
+
+> All security assessments, enforcement work, and platform migrations referenced below were authorized professional engagements.
 
 ---
 
-## 🔐 Application Security — VAPT Engagements
+## 01 / Secure
 
-**Authorized platform, API, and business-logic security testing at AppSquadz** — covering EdTech, media, and cloud-infrastructure clients.
+### Application security and VAPT
 
-| Engagement | Focus | Outcome |
+Platform, API, and business-logic testing across EdTech, media, and cloud-infrastructure environments.
+
+| Engagement | Scope | Outcome |
 | --- | --- | --- |
-| **EduCrypt — LMS Admin Panel** | Static and dynamic analysis of the admin panel | 43 findings — 20 Critical, 15 High |
-| **CloudBuddy** | Platform security audit | 25 vulnerabilities identified |
-| **ABP Live** | Infrastructure security audit | Delivered as a professional report |
-| **Exampur · Waves App · Motion (Kota)** | API analysis and business-logic testing | Unauthorized-access, API-abuse, and business-logic flaws found and remediated |
+| **EduCrypt — LMS Admin Panel** | Static and dynamic admin-panel assessment | **43 findings** — 20 Critical, 15 High |
+| **CloudBuddy** | Platform security audit | **25 vulnerabilities** identified |
+| **ABP Live** | Infrastructure security audit | Professional assessment and remediation report delivered |
+| **Exampur · Waves App · Motion (Kota)** | API analysis and business-logic testing | Access-control, API-abuse, and workflow flaws identified and remediated |
 
-```text
-→ Testing approach
-   Static and dynamic analysis
-   API-abuse and business-logic flaw detection
-   Unauthorized-access vector identification
+**Method**
 
-→ Reporting
-   Professional HTML VAPT reports
-   Actionable, prioritized remediation steps
-```
+`Static analysis` → `Dynamic testing` → `API abuse cases` → `Business-logic review` → `Prioritized remediation`
+
+### Copyright enforcement operations
+
+Designed and operated authorized takedown workflows across **250+ Telegram channels**, YouTube, and websites.
 
 ---
 
-## 🛡️ Copyright Enforcement — Telegram · YouTube · Websites
+## 02 / Build
 
-Built and operated a copyright strike and takedown system across multiple platforms for AppSquadz clients.
+### LACSA TECH
 
-| Platform | Scale |
-| --- | --- |
-| **Telegram** | 250+ channel takedowns managed |
-| **YouTube** | Copyright strikes managed |
-| **Websites** | Content-takedown enforcement |
+> An AI and cybersecurity education startup founded in Jhumri Telaiya, Jharkhand—DPIIT / Startup India-recognized and positioned as **“India's First AI Startup Institute.”**
 
----
+### Applied AI expertise
 
-## 🚀 Founder — LACSA TECH
+Built **AI Playground**, a practical multi-tool environment that brings together a Prompt Lab, Code Assistant, Model Compare, and Image Studio.
 
-> **Independently founded and built** — an AI and cybersecurity education startup from Tier-3 Jharkhand, DPIIT/Startup India-recognized, positioned as **“India's First AI Startup Institute.”**
-
-| Products Built | Reach & Recognition |
-| --- | --- |
-| **AI Playground** — Prompt Lab, Code Assistant, Model Compare, Image Studio | DPIIT / Startup India recognized |
-| **AutoWeb** — AI website generator for Indian MSMEs | Press release syndicated across 600+ outlets |
-| **WhatsApp AI Voice Agent** — Groq, Deepgram, ElevenLabs, Twilio | Independently surfaced in Google's AI Overview |
-| First offline learning centre — Jhumri Telaiya, Jharkhand | 1,000+ live students taught, free-first, since 2023 |
+`LLM Applications` · `Prompt Engineering` · `Model Evaluation` · `AI Automation` · `AI-assisted Development`
 
 ---
 
-## ⚙️ EdTech Platform Migrations
+## 03 / Scale
 
-Since joining AppSquadz in February 2024, led authorized content and platform migration work at scale:
+### EdTech platform engineering
 
-| Platform | Scale & Scope |
+Since February 2024, led authorized content and platform migration work across high-volume learning ecosystems.
+
+| Platform | Delivery |
 | --- | --- |
-| **ClassPlus** | 30+ platforms migrated — authorized decryption, content extraction, and structured uploads |
-| **AppX** | 20+ platform migrations — authorized UHS decryption (v1–v5) |
-| **YouTube** | 30,000+ videos migrated, fully structured and mapped |
+| **ClassPlus** | 30+ migrations with authorized content extraction and structured uploads |
+| **AppX** | 20+ migrations, including authorized UHS workflows (v1–v5) |
+| **YouTube** | 30,000+ videos migrated, structured, and mapped |
 | **CareerWill** | 70,000+ videos migrated |
-| **Graphy** | Authorized migration from a custom DRM-protected platform — structured delivery |
-| **Edugorilla · Shri Ram IAS** | End-to-end platform migrations with proper restructuring |
-| **Google Drive** | High-volume extraction and migration pipelines with full data integrity |
+| **Graphy** | Authorized migration from a custom DRM-protected environment |
+| **Edugorilla · Shri Ram IAS** | End-to-end migration with content restructuring |
+| **Google Drive** | High-volume extraction pipelines with data-integrity controls |
 
 ---
 
-## ⚙️ Engineering — Developer Vault
+## 04 / Ship
 
-**Built and shipped independently** — a local-first Chrome debugging extension for developers.
+### [Developer Vault](https://github.com/amanranjan26262626-creator/Developer-Vault)
 
-| What it does | Engineering highlights |
+> A local-first Chrome debugging extension that brings network, storage, token, source, and export tooling into one focused workspace.
+
+| Developer workflow | Engineering decision |
 | --- | --- |
-| Captures API calls, WebSockets, and storage | Local-first — no data leaves the browser |
-| JWT decoder and cURL generator | Chrome Manifest V3 |
-| Page-source capture and HAR export | Built solo, end to end |
+| Capture API calls and WebSocket traffic | Chrome Manifest V3 architecture |
+| Inspect browser storage and decode JWTs | Local-first; no hosted backend |
+| Generate cURL commands and HAR exports | Reproducible debugging evidence |
+| Capture page sources | Built independently, end to end |
 
-**Stack:** JavaScript · Chrome Manifest V3
-
-[![View Project](https://img.shields.io/badge/View_Project-Developer_Vault-5A6FFF?style=for-the-badge&logo=github)](https://github.com/amanranjan26262626-creator/Developer-Vault)
+[![View Developer Vault](https://img.shields.io/badge/View_Developer_Vault-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanranjan26262626-creator/Developer-Vault)
+[![Stars](https://img.shields.io/github/stars/amanranjan26262626-creator/Developer-Vault?style=for-the-badge&color=1F6FEB)](https://github.com/amanranjan26262626-creator/Developer-Vault/stargazers)
 
 ---
 
-## 🛠️ Tools & Stack
+## Capabilities
 
-**Security & AppSec**
+**Security**
 
-`Application Security` · `VAPT` · `Secure SDLC` · `Threat Modelling` · `API Security` · `Business-Logic Testing`
+`Application Security` · `VAPT` · `API Security` · `Secure SDLC` · `Threat Modelling` · `Business-Logic Testing`
 
-**Frontend**
+**Artificial intelligence**
+
+`Applied AI` · `LLM Applications` · `Prompt Engineering` · `Model Evaluation` · `AI Automation`
+
+**Engineering**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend, data & Web3**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -146,31 +145,26 @@ Since joining AppSquadz in February 2024, led authorized content and platform mi
 
 ---
 
-## 📊 GitHub Stats
+## GitHub activity
 
 <div align="center">
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanranjan26262626-creator&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=5A6FFF&icon_color=3fb950&text_color=e6edf3)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanranjan26262626-creator&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=5A6FFF&text_color=e6edf3)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanranjan26262626-creator&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=5A6FFF&fire=f85149&currStreakLabel=5A6FFF)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amanranjan26262626-creator&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=3FB950&amp;text_color=C9D1D9&amp;rank_icon=github" alt="Aman Ranjan's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanranjan26262626-creator&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;langs_count=6" alt="Aman Ranjan's top languages" />
 
 </div>
 
 ---
 
-## 📫 Contact
-
-| 💼 LinkedIn | 📸 Instagram | 🎥 YouTube | ✉️ Email |
-| --- | --- | --- | --- |
-| [aman-ranjan](https://www.linkedin.com/in/aman-ranjan) | [@amanranjan26262626](https://www.instagram.com/amanranjan26262626) | [@liveallclass](https://www.youtube.com/@liveallclass) | [amanranjan26262626@gmail.com](mailto:amanranjan26262626@gmail.com) |
-
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=amanranjan26262626-creator&color=5A6FFF&style=flat-square&label=Profile+Views)
+### Secure deeply. Build intelligently. Create meaningful impact.
 
-*Formal education builds a foundation. Practical skills create the ability to build, solve, and lead.*
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-ranjan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amanranjan26262626)
+[![YouTube](https://img.shields.io/badge/LiveAllClass-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@liveallclass)
+[![Email](https://img.shields.io/badge/Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanranjan26262626@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=amanranjan26262626-creator&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
