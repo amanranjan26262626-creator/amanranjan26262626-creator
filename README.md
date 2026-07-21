@@ -13,16 +13,6 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amanranjan26262626)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanranjan26262626@gmail.com)
 
-<br/>
-
-<a href="https://www.linkedin.com/in/amanranjan2626"><img src="https://avatars.githubusercontent.com/u/248834718?v=4" width="148" alt="Aman Ranjan portrait"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://lacsa.tech/" title="LACSA TECH"><img src="https://lacsa.tech/favicon.ico" width="148" alt="LACSA TECH logo"></a>
-
-<br/>
-
-<sub><b>PERSONAL IDENTITY</b> × <b>COMPANY MISSION</b></sub>
-
 </div>
 
 <br/>
@@ -117,8 +107,6 @@ Designed and operated authorized copyright-enforcement workflows across Telegram
 
 <div align="center">
 
-<a href="https://lacsa.tech/"><img src="https://lacsa.tech/favicon.ico" width="190" alt="LACSA TECH"></a>
-
 ### Founder & Director — LACSA TECH
 
 *LACSA TECH positions itself as “India's First AI Startup Institute.”*
@@ -144,33 +132,39 @@ The journey began with free technology classes under **LiveAllClass in 2023**, e
 
 <br/>
 
+---
+
 <picture>
   <source media="(max-width: 768px)" srcset="./assets/section-scale-mobile.svg">
-  <img src="./assets/section-scale.svg" width="100%" alt="04 Scale — Platform migrations, structured delivery and protection">
+  <img src="./assets/section-scale.svg" width="100%" alt="Independent Migration Operations section — platform migrations, structured delivery and protection">
 </picture>
 
-### Platform and content operations
+## Migration Operations
+
+<sub><b>INDEPENDENT DELIVERY &amp; PLATFORM OPERATIONS</b> · Separate from LACSA TECH</sub>
 
 - **50+ platform migrations** across learning ecosystems
 - **100,000+ learning assets** migrated with mapping, structure, and integrity controls
-- High-volume workflows spanning Classplus, AppX, YouTube, CareerWill, Graphy, Google Drive, and custom learning platforms
+- High-volume workflows spanning ClassPlus, AppX, YouTube, CareerWill, Graphy, Google Drive, and custom learning platforms
 
 <details>
 <summary><b>Open the delivery map</b></summary>
 
 <br/>
 
-- **Classplus:** 30+ authorized migrations with content extraction and structured uploads
+- **ClassPlus:** 30+ authorized migrations with content extraction and structured uploads
 - **AppX:** 20+ authorized platform migrations across multiple delivery formats
 - **YouTube:** 30,000+ videos migrated, structured, and mapped
 - **CareerWill:** 70,000+ videos migrated
 - **Graphy:** Structured migration from a custom protected environment
-- **EduGorilla · Shri Ram IAS:** End-to-end content restructuring and transfer
+- **Edugorilla · Shri Ram IAS:** End-to-end content restructuring and transfer
 - **Google Drive:** High-volume extraction pipelines with data-integrity controls
 
 </details>
 
 <br/>
+
+---
 
 <picture>
   <source media="(max-width: 768px)" srcset="./assets/section-evidence-mobile.svg">
