@@ -30,7 +30,7 @@
 
 <br/>
 
-## 01 / Security Engineering
+## 01 — Security Engineering
 
 <sub>APPLICATION SECURITY · API SECURITY · VAPT · SECURE SDLC · BUSINESS-LOGIC TESTING</sub>
 
@@ -63,7 +63,7 @@
 
 <img src="./assets/premium-divider.svg" width="100%" alt="">
 
-## 02 / AI & Product Engineering
+## 02 — AI & Product Engineering
 
 <sub>LLM APPLICATIONS · AUTOMATION · DEVELOPER TOOLS · EXPERIMENTAL SYSTEMS</sub>
 
@@ -95,7 +95,7 @@ A local-first Chrome Manifest V3 debugging extension that turns browser activity
 
 <img src="./assets/premium-divider.svg" width="100%" alt="">
 
-## 03 / Founder & Director — LACSA TECH
+## 03 — Founder & Director · LACSA TECH
 
 <sub>INDIA'S FIRST AI STARTUP INSTITUTE · AI & CYBERSECURITY EDUCATION</sub>
 
@@ -115,7 +115,7 @@ LACSA TECH is positioned as **“India's First AI Startup Institute”**, focuse
 
 <img src="./assets/premium-divider.svg" width="100%" alt="">
 
-## 04 / Migration Operations
+## 04 — Migration Operations
 
 <sub>INDEPENDENT DELIVERY & PLATFORM OPERATIONS · SEPARATE FROM LACSA TECH</sub>
 
@@ -140,7 +140,7 @@ LACSA TECH is positioned as **“India's First AI Startup Institute”**, focuse
 
 <img src="./assets/premium-divider.svg" width="100%" alt="">
 
-## 05 / Public Footprint
+## 05 — Public Footprint
 
 ### Founder profiles
 
